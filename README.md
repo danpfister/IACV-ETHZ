@@ -1,5 +1,5 @@
 # IACV-ETHZ
-This repository contains my solutions for the exercises of the [227-0447-00L Image Analysis and Computer Vision](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=172702&lang=de) course at ETH.
+This repository contains my solutions for the exercises of the [227-0447-00L Image Analysis and Computer Vision HS2023](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=172702&lang=de) course at ETH.
 
 ## Results
 
